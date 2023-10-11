@@ -95,6 +95,6 @@ hist(pvals)
 abline(v=0.05596113,col='red')
 abline(v=mean(pvals), col='blue')
 
-#Doubbline the number of MC rounds
+#Doubbline the number of MC rounds (1000 -> 2000)
 #increased the accuracy of the test (0.182 -> 0.12)
 mean(pvals<0.05)
