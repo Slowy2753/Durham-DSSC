@@ -66,6 +66,8 @@ for (i in 1:12){
 
 data <- as.data.frame(cbind(years, straps, medians,lower,upper))
 
-plot(data$years, data$lower, type="l", col='red')
+plot(data$years, data$lower, type="l", col='red', ylab = 'Length (mins)')
 points(data$years, data$medians, type="l", col='black')
 points(data$years, data$upper, type="l", col='green')
+legend('bottomright', fill=c('red','black','green'),
+       c('Upper', 'Actual', 'Lower'))
