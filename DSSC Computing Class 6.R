@@ -91,13 +91,16 @@ for (i in 1:length(hrs_cancelled$Var1)) {
     cancelled_post_lunch<-0
   }
   if(hrs_cancelled$Var1[i]<12){
-    total_pre_lunch = total_pre_lunch + hrs_cancelled[4][i]
-    cancelled_pre_lunch = cancelled_pre_lunch + hrs_cancelled[2][i]
+    total_pre_lunch = total_pre_lunch + hrs_cancelled[i,4]
+    cancelled_pre_lunch = cancelled_pre_lunch + hrs_cancelled[i,2]
   }
   else{
-    total_post_lunch = total_post_lunch + hrs_cancelled[4][i]
-    cancelled_post_lunch = cancelled_post_lunch + hrs_cancelled[2][i]
+    total_post_lunch = total_post_lunch + hrs_cancelled[i,4]
+    cancelled_post_lunch = cancelled_post_lunch + hrs_cancelled[i,2]
   }
 }
 print(cancelled_pre_lunch/total_pre_lunch)
 print(cancelled_post_lunch/total_post_lunch)
+
+#I would rather catch a flight pre-lunch
+
