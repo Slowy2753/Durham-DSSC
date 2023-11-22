@@ -1,0 +1,44 @@
+---
+title: "Lab 8"
+author: "Me"
+date: "2023-11-22"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data
+
+We take the NHS Covid-19 data from: https://coronavirus.data.gov.uk/details/download under the dair usage policy and is imported from as a data frame.
+```{r, include=FALSE}
+library(tidyverse)
+```
+
+```{r,include=FALSE}
+data <- read.csv('https://api.coronavirus.data.gov.uk/v2/data?areaType=nhsRegion&metric=cumAdmissionsByAge&format=csv')
+data$date <- as.Date(data$date)
+```
+
+
+```{r, echo=FALSE}
+ggplot(data=data, aes(x=date,y=rate,col=areaName))+
+  facet_wrap(~age, scales='free')+
+  geom_line()
+
+```
+
+```{r, include=FALSE}
+
+data_totals <- data |>
+  mutate(total = value*100000/rate)|>
+  group_by(date, areaName)|>
+  summarise(totalrate = sum(value)/sum(total)*100000)
+
+```
+
+```{r, echo=FALSE, warning=FALSE}
+ggplot(data_totals, aes(x=date, y=totalrate, col=areaName))+
+  geom_line()
+```
