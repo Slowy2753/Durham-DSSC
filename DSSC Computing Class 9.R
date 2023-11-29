@@ -107,5 +107,19 @@ leaflet() |>
   addPolygons(lng = Boundary_STAN3$longitude, lat = Boundary_STAN3$latitude, label = "STAN3") 
   
 
+Boundary_DHAM1_R <- Boundary_DHAM1 |> 
+  select(lat = latitude,
+         lng = longitude)
 
+Boundary_DHAM1_R <- Boundary_DHAM1_R[round(seq(1, nrow(Boundary_DHAM1_R), length.out = 100)), ]
 
+crimes <- ukc_crime_poly(Boundary_DHAM1_R,"2023-7")
+
+crimes <- crimes |>
+  mutate(latitude=as.numeric(latitude),
+         longitude=as.numeric(longitude))
+
+leaflet() |> 
+  addTiles() |> 
+  addPolygons(lng = Boundary_DHAM1$longitude, lat = Boundary_DHAM1$latitude, label = "DHAM1") |>
+  addCircles(lng=crimes$longitude, lat=crimes$latitude, label = crimes$category, col='red')
