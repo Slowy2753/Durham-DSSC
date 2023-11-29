@@ -10,12 +10,12 @@ forces <- ukc_forces()
 ui <- fluidPage(
 
     # Application title
-    titlePanel("Where are you interested in?"),
+    titlePanel("UK Monthly Crime Viewer"),
     
     sidebarPanel(
-      selectInput("force", "Choose which nation force you are interested in?", forces$id),
+      selectInput("force", "Which Police Force?", forces$id),
       uiOutput("area"),
-      textInput("date", "Enter the desired year and month in the format YYYY-MM", value = "2023-09"),
+      textInput("date", "Enter the Desired Month in YYYY-MM format", value = "2023-09"),
     ),
     
     mainPanel(
@@ -34,7 +34,7 @@ server <- function(input, output) {
 
   
   output$area <- renderUI({
-    selectInput("nbd", "Choose which area you are interested in?", ukc_neighbourhoods(input$force)$id)
+    selectInput("nbd", "Which Area Within the Force?", ukc_neighbourhoods(input$force)$id)
   })
   
   bdy <- reactive({
