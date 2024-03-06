@@ -6,7 +6,6 @@ library("leaflet")
 
 forces <- ukc_forces()
 
-
 ui <- fluidPage(
 
     # Application title

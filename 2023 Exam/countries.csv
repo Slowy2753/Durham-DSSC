@@ -1,0 +1,1246 @@
+code,var,x
+4,alpha_2,AF
+4,alpha_3,AFG
+4,name,Afghanistan
+4,region,Asia
+4,sub_region,Southern Asia
+248,alpha_2,AX
+248,alpha_3,ALA
+248,name,Åland Islands
+248,region,Europe
+248,sub_region,Northern Europe
+8,alpha_2,AL
+8,alpha_3,ALB
+8,name,Albania
+8,region,Europe
+8,sub_region,Southern Europe
+12,alpha_2,DZ
+12,alpha_3,DZA
+12,name,Algeria
+12,region,Africa
+12,sub_region,Northern Africa
+16,alpha_2,AS
+16,alpha_3,ASM
+16,name,American Samoa
+16,region,Oceania
+16,sub_region,Polynesia
+20,alpha_2,AD
+20,alpha_3,AND
+20,name,Andorra
+20,region,Europe
+20,sub_region,Southern Europe
+24,alpha_2,AO
+24,alpha_3,AGO
+24,name,Angola
+24,region,Africa
+24,sub_region,Sub-Saharan Africa
+660,alpha_2,AI
+660,alpha_3,AIA
+660,name,Anguilla
+660,region,Americas
+660,sub_region,Latin America and the Caribbean
+10,alpha_2,AQ
+10,alpha_3,ATA
+10,name,Antarctica
+10,region,
+10,sub_region,
+28,alpha_2,AG
+28,alpha_3,ATG
+28,name,Antigua and Barbuda
+28,region,Americas
+28,sub_region,Latin America and the Caribbean
+32,alpha_2,AR
+32,alpha_3,ARG
+32,name,Argentina
+32,region,Americas
+32,sub_region,Latin America and the Caribbean
+51,alpha_2,AM
+51,alpha_3,ARM
+51,name,Armenia
+51,region,Asia
+51,sub_region,Western Asia
+533,alpha_2,AW
+533,alpha_3,ABW
+533,name,Aruba
+533,region,Americas
+533,sub_region,Latin America and the Caribbean
+36,alpha_2,AU
+36,alpha_3,AUS
+36,name,Australia
+36,region,Oceania
+36,sub_region,Australia and New Zealand
+40,alpha_2,AT
+40,alpha_3,AUT
+40,name,Austria
+40,region,Europe
+40,sub_region,Western Europe
+31,alpha_2,AZ
+31,alpha_3,AZE
+31,name,Azerbaijan
+31,region,Asia
+31,sub_region,Western Asia
+44,alpha_2,BS
+44,alpha_3,BHS
+44,name,Bahamas
+44,region,Americas
+44,sub_region,Latin America and the Caribbean
+48,alpha_2,BH
+48,alpha_3,BHR
+48,name,Bahrain
+48,region,Asia
+48,sub_region,Western Asia
+50,alpha_2,BD
+50,alpha_3,BGD
+50,name,Bangladesh
+50,region,Asia
+50,sub_region,Southern Asia
+52,alpha_2,BB
+52,alpha_3,BRB
+52,name,Barbados
+52,region,Americas
+52,sub_region,Latin America and the Caribbean
+112,alpha_2,BY
+112,alpha_3,BLR
+112,name,Belarus
+112,region,Europe
+112,sub_region,Eastern Europe
+56,alpha_2,BE
+56,alpha_3,BEL
+56,name,Belgium
+56,region,Europe
+56,sub_region,Western Europe
+84,alpha_2,BZ
+84,alpha_3,BLZ
+84,name,Belize
+84,region,Americas
+84,sub_region,Latin America and the Caribbean
+204,alpha_2,BJ
+204,alpha_3,BEN
+204,name,Benin
+204,region,Africa
+204,sub_region,Sub-Saharan Africa
+60,alpha_2,BM
+60,alpha_3,BMU
+60,name,Bermuda
+60,region,Americas
+60,sub_region,Northern America
+64,alpha_2,BT
+64,alpha_3,BTN
+64,name,Bhutan
+64,region,Asia
+64,sub_region,Southern Asia
+68,alpha_2,BO
+68,alpha_3,BOL
+68,name,Bolivia (Plurinational State of)
+68,region,Americas
+68,sub_region,Latin America and the Caribbean
+535,alpha_2,BQ
+535,alpha_3,BES
+535,name,"Bonaire, Sint Eustatius and Saba"
+535,region,Americas
+535,sub_region,Latin America and the Caribbean
+70,alpha_2,BA
+70,alpha_3,BIH
+70,name,Bosnia and Herzegovina
+70,region,Europe
+70,sub_region,Southern Europe
+72,alpha_2,BW
+72,alpha_3,BWA
+72,name,Botswana
+72,region,Africa
+72,sub_region,Sub-Saharan Africa
+74,alpha_2,BV
+74,alpha_3,BVT
+74,name,Bouvet Island
+74,region,Americas
+74,sub_region,Latin America and the Caribbean
+76,alpha_2,BR
+76,alpha_3,BRA
+76,name,Brazil
+76,region,Americas
+76,sub_region,Latin America and the Caribbean
+86,alpha_2,IO
+86,alpha_3,IOT
+86,name,British Indian Ocean Territory
+86,region,Africa
+86,sub_region,Sub-Saharan Africa
+96,alpha_2,BN
+96,alpha_3,BRN
+96,name,Brunei Darussalam
+96,region,Asia
+96,sub_region,South-eastern Asia
+100,alpha_2,BG
+100,alpha_3,BGR
+100,name,Bulgaria
+100,region,Europe
+100,sub_region,Eastern Europe
+854,alpha_2,BF
+854,alpha_3,BFA
+854,name,Burkina Faso
+854,region,Africa
+854,sub_region,Sub-Saharan Africa
+108,alpha_2,BI
+108,alpha_3,BDI
+108,name,Burundi
+108,region,Africa
+108,sub_region,Sub-Saharan Africa
+132,alpha_2,CV
+132,alpha_3,CPV
+132,name,Cabo Verde
+132,region,Africa
+132,sub_region,Sub-Saharan Africa
+116,alpha_2,KH
+116,alpha_3,KHM
+116,name,Cambodia
+116,region,Asia
+116,sub_region,South-eastern Asia
+120,alpha_2,CM
+120,alpha_3,CMR
+120,name,Cameroon
+120,region,Africa
+120,sub_region,Sub-Saharan Africa
+124,alpha_2,CA
+124,alpha_3,CAN
+124,name,Canada
+124,region,Americas
+124,sub_region,Northern America
+136,alpha_2,KY
+136,alpha_3,CYM
+136,name,Cayman Islands
+136,region,Americas
+136,sub_region,Latin America and the Caribbean
+140,alpha_2,CF
+140,alpha_3,CAF
+140,name,Central African Republic
+140,region,Africa
+140,sub_region,Sub-Saharan Africa
+148,alpha_2,TD
+148,alpha_3,TCD
+148,name,Chad
+148,region,Africa
+148,sub_region,Sub-Saharan Africa
+152,alpha_2,CL
+152,alpha_3,CHL
+152,name,Chile
+152,region,Americas
+152,sub_region,Latin America and the Caribbean
+156,alpha_2,CN
+156,alpha_3,CHN
+156,name,China
+156,region,Asia
+156,sub_region,Eastern Asia
+162,alpha_2,CX
+162,alpha_3,CXR
+162,name,Christmas Island
+162,region,Oceania
+162,sub_region,Australia and New Zealand
+166,alpha_2,CC
+166,alpha_3,CCK
+166,name,Cocos (Keeling) Islands
+166,region,Oceania
+166,sub_region,Australia and New Zealand
+170,alpha_2,CO
+170,alpha_3,COL
+170,name,Colombia
+170,region,Americas
+170,sub_region,Latin America and the Caribbean
+174,alpha_2,KM
+174,alpha_3,COM
+174,name,Comoros
+174,region,Africa
+174,sub_region,Sub-Saharan Africa
+178,alpha_2,CG
+178,alpha_3,COG
+178,name,Congo
+178,region,Africa
+178,sub_region,Sub-Saharan Africa
+180,alpha_2,CD
+180,alpha_3,COD
+180,name,"Congo, Democratic Republic of the"
+180,region,Africa
+180,sub_region,Sub-Saharan Africa
+184,alpha_2,CK
+184,alpha_3,COK
+184,name,Cook Islands
+184,region,Oceania
+184,sub_region,Polynesia
+188,alpha_2,CR
+188,alpha_3,CRI
+188,name,Costa Rica
+188,region,Americas
+188,sub_region,Latin America and the Caribbean
+384,alpha_2,CI
+384,alpha_3,CIV
+384,name,Côte d'Ivoire
+384,region,Africa
+384,sub_region,Sub-Saharan Africa
+191,alpha_2,HR
+191,alpha_3,HRV
+191,name,Croatia
+191,region,Europe
+191,sub_region,Southern Europe
+192,alpha_2,CU
+192,alpha_3,CUB
+192,name,Cuba
+192,region,Americas
+192,sub_region,Latin America and the Caribbean
+531,alpha_2,CW
+531,alpha_3,CUW
+531,name,Curaçao
+531,region,Americas
+531,sub_region,Latin America and the Caribbean
+196,alpha_2,CY
+196,alpha_3,CYP
+196,name,Cyprus
+196,region,Asia
+196,sub_region,Western Asia
+203,alpha_2,CZ
+203,alpha_3,CZE
+203,name,Czechia
+203,region,Europe
+203,sub_region,Eastern Europe
+208,alpha_2,DK
+208,alpha_3,DNK
+208,name,Denmark
+208,region,Europe
+208,sub_region,Northern Europe
+262,alpha_2,DJ
+262,alpha_3,DJI
+262,name,Djibouti
+262,region,Africa
+262,sub_region,Sub-Saharan Africa
+212,alpha_2,DM
+212,alpha_3,DMA
+212,name,Dominica
+212,region,Americas
+212,sub_region,Latin America and the Caribbean
+214,alpha_2,DO
+214,alpha_3,DOM
+214,name,Dominican Republic
+214,region,Americas
+214,sub_region,Latin America and the Caribbean
+218,alpha_2,EC
+218,alpha_3,ECU
+218,name,Ecuador
+218,region,Americas
+218,sub_region,Latin America and the Caribbean
+818,alpha_2,EG
+818,alpha_3,EGY
+818,name,Egypt
+818,region,Africa
+818,sub_region,Northern Africa
+222,alpha_2,SV
+222,alpha_3,SLV
+222,name,El Salvador
+222,region,Americas
+222,sub_region,Latin America and the Caribbean
+226,alpha_2,GQ
+226,alpha_3,GNQ
+226,name,Equatorial Guinea
+226,region,Africa
+226,sub_region,Sub-Saharan Africa
+232,alpha_2,ER
+232,alpha_3,ERI
+232,name,Eritrea
+232,region,Africa
+232,sub_region,Sub-Saharan Africa
+233,alpha_2,EE
+233,alpha_3,EST
+233,name,Estonia
+233,region,Europe
+233,sub_region,Northern Europe
+748,alpha_2,SZ
+748,alpha_3,SWZ
+748,name,Eswatini
+748,region,Africa
+748,sub_region,Sub-Saharan Africa
+231,alpha_2,ET
+231,alpha_3,ETH
+231,name,Ethiopia
+231,region,Africa
+231,sub_region,Sub-Saharan Africa
+238,alpha_2,FK
+238,alpha_3,FLK
+238,name,Falkland Islands (Malvinas)
+238,region,Americas
+238,sub_region,Latin America and the Caribbean
+234,alpha_2,FO
+234,alpha_3,FRO
+234,name,Faroe Islands
+234,region,Europe
+234,sub_region,Northern Europe
+242,alpha_2,FJ
+242,alpha_3,FJI
+242,name,Fiji
+242,region,Oceania
+242,sub_region,Melanesia
+246,alpha_2,FI
+246,alpha_3,FIN
+246,name,Finland
+246,region,Europe
+246,sub_region,Northern Europe
+250,alpha_2,FR
+250,alpha_3,FRA
+250,name,France
+250,region,Europe
+250,sub_region,Western Europe
+254,alpha_2,GF
+254,alpha_3,GUF
+254,name,French Guiana
+254,region,Americas
+254,sub_region,Latin America and the Caribbean
+258,alpha_2,PF
+258,alpha_3,PYF
+258,name,French Polynesia
+258,region,Oceania
+258,sub_region,Polynesia
+260,alpha_2,TF
+260,alpha_3,ATF
+260,name,French Southern Territories
+260,region,Africa
+260,sub_region,Sub-Saharan Africa
+266,alpha_2,GA
+266,alpha_3,GAB
+266,name,Gabon
+266,region,Africa
+266,sub_region,Sub-Saharan Africa
+270,alpha_2,GM
+270,alpha_3,GMB
+270,name,Gambia
+270,region,Africa
+270,sub_region,Sub-Saharan Africa
+268,alpha_2,GE
+268,alpha_3,GEO
+268,name,Georgia
+268,region,Asia
+268,sub_region,Western Asia
+276,alpha_2,DE
+276,alpha_3,DEU
+276,name,Germany
+276,region,Europe
+276,sub_region,Western Europe
+288,alpha_2,GH
+288,alpha_3,GHA
+288,name,Ghana
+288,region,Africa
+288,sub_region,Sub-Saharan Africa
+292,alpha_2,GI
+292,alpha_3,GIB
+292,name,Gibraltar
+292,region,Europe
+292,sub_region,Southern Europe
+300,alpha_2,GR
+300,alpha_3,GRC
+300,name,Greece
+300,region,Europe
+300,sub_region,Southern Europe
+304,alpha_2,GL
+304,alpha_3,GRL
+304,name,Greenland
+304,region,Americas
+304,sub_region,Northern America
+308,alpha_2,GD
+308,alpha_3,GRD
+308,name,Grenada
+308,region,Americas
+308,sub_region,Latin America and the Caribbean
+312,alpha_2,GP
+312,alpha_3,GLP
+312,name,Guadeloupe
+312,region,Americas
+312,sub_region,Latin America and the Caribbean
+316,alpha_2,GU
+316,alpha_3,GUM
+316,name,Guam
+316,region,Oceania
+316,sub_region,Micronesia
+320,alpha_2,GT
+320,alpha_3,GTM
+320,name,Guatemala
+320,region,Americas
+320,sub_region,Latin America and the Caribbean
+831,alpha_2,GG
+831,alpha_3,GGY
+831,name,Guernsey
+831,region,Europe
+831,sub_region,Northern Europe
+324,alpha_2,GN
+324,alpha_3,GIN
+324,name,Guinea
+324,region,Africa
+324,sub_region,Sub-Saharan Africa
+624,alpha_2,GW
+624,alpha_3,GNB
+624,name,Guinea-Bissau
+624,region,Africa
+624,sub_region,Sub-Saharan Africa
+328,alpha_2,GY
+328,alpha_3,GUY
+328,name,Guyana
+328,region,Americas
+328,sub_region,Latin America and the Caribbean
+332,alpha_2,HT
+332,alpha_3,HTI
+332,name,Haiti
+332,region,Americas
+332,sub_region,Latin America and the Caribbean
+334,alpha_2,HM
+334,alpha_3,HMD
+334,name,Heard Island and McDonald Islands
+334,region,Oceania
+334,sub_region,Australia and New Zealand
+336,alpha_2,VA
+336,alpha_3,VAT
+336,name,Holy See
+336,region,Europe
+336,sub_region,Southern Europe
+340,alpha_2,HN
+340,alpha_3,HND
+340,name,Honduras
+340,region,Americas
+340,sub_region,Latin America and the Caribbean
+344,alpha_2,HK
+344,alpha_3,HKG
+344,name,Hong Kong
+344,region,Asia
+344,sub_region,Eastern Asia
+348,alpha_2,HU
+348,alpha_3,HUN
+348,name,Hungary
+348,region,Europe
+348,sub_region,Eastern Europe
+352,alpha_2,IS
+352,alpha_3,ISL
+352,name,Iceland
+352,region,Europe
+352,sub_region,Northern Europe
+356,alpha_2,IN
+356,alpha_3,IND
+356,name,India
+356,region,Asia
+356,sub_region,Southern Asia
+360,alpha_2,ID
+360,alpha_3,IDN
+360,name,Indonesia
+360,region,Asia
+360,sub_region,South-eastern Asia
+364,alpha_2,IR
+364,alpha_3,IRN
+364,name,Iran (Islamic Republic of)
+364,region,Asia
+364,sub_region,Southern Asia
+368,alpha_2,IQ
+368,alpha_3,IRQ
+368,name,Iraq
+368,region,Asia
+368,sub_region,Western Asia
+372,alpha_2,IE
+372,alpha_3,IRL
+372,name,Ireland
+372,region,Europe
+372,sub_region,Northern Europe
+833,alpha_2,IM
+833,alpha_3,IMN
+833,name,Isle of Man
+833,region,Europe
+833,sub_region,Northern Europe
+376,alpha_2,IL
+376,alpha_3,ISR
+376,name,Israel
+376,region,Asia
+376,sub_region,Western Asia
+380,alpha_2,IT
+380,alpha_3,ITA
+380,name,Italy
+380,region,Europe
+380,sub_region,Southern Europe
+388,alpha_2,JM
+388,alpha_3,JAM
+388,name,Jamaica
+388,region,Americas
+388,sub_region,Latin America and the Caribbean
+392,alpha_2,JP
+392,alpha_3,JPN
+392,name,Japan
+392,region,Asia
+392,sub_region,Eastern Asia
+832,alpha_2,JE
+832,alpha_3,JEY
+832,name,Jersey
+832,region,Europe
+832,sub_region,Northern Europe
+400,alpha_2,JO
+400,alpha_3,JOR
+400,name,Jordan
+400,region,Asia
+400,sub_region,Western Asia
+398,alpha_2,KZ
+398,alpha_3,KAZ
+398,name,Kazakhstan
+398,region,Asia
+398,sub_region,Central Asia
+404,alpha_2,KE
+404,alpha_3,KEN
+404,name,Kenya
+404,region,Africa
+404,sub_region,Sub-Saharan Africa
+296,alpha_2,KI
+296,alpha_3,KIR
+296,name,Kiribati
+296,region,Oceania
+296,sub_region,Micronesia
+408,alpha_2,KP
+408,alpha_3,PRK
+408,name,Korea (Democratic People's Republic of)
+408,region,Asia
+408,sub_region,Eastern Asia
+410,alpha_2,KR
+410,alpha_3,KOR
+410,name,"Korea, Republic of"
+410,region,Asia
+410,sub_region,Eastern Asia
+414,alpha_2,KW
+414,alpha_3,KWT
+414,name,Kuwait
+414,region,Asia
+414,sub_region,Western Asia
+417,alpha_2,KG
+417,alpha_3,KGZ
+417,name,Kyrgyzstan
+417,region,Asia
+417,sub_region,Central Asia
+418,alpha_2,LA
+418,alpha_3,LAO
+418,name,Lao People's Democratic Republic
+418,region,Asia
+418,sub_region,South-eastern Asia
+428,alpha_2,LV
+428,alpha_3,LVA
+428,name,Latvia
+428,region,Europe
+428,sub_region,Northern Europe
+422,alpha_2,LB
+422,alpha_3,LBN
+422,name,Lebanon
+422,region,Asia
+422,sub_region,Western Asia
+426,alpha_2,LS
+426,alpha_3,LSO
+426,name,Lesotho
+426,region,Africa
+426,sub_region,Sub-Saharan Africa
+430,alpha_2,LR
+430,alpha_3,LBR
+430,name,Liberia
+430,region,Africa
+430,sub_region,Sub-Saharan Africa
+434,alpha_2,LY
+434,alpha_3,LBY
+434,name,Libya
+434,region,Africa
+434,sub_region,Northern Africa
+438,alpha_2,LI
+438,alpha_3,LIE
+438,name,Liechtenstein
+438,region,Europe
+438,sub_region,Western Europe
+440,alpha_2,LT
+440,alpha_3,LTU
+440,name,Lithuania
+440,region,Europe
+440,sub_region,Northern Europe
+442,alpha_2,LU
+442,alpha_3,LUX
+442,name,Luxembourg
+442,region,Europe
+442,sub_region,Western Europe
+446,alpha_2,MO
+446,alpha_3,MAC
+446,name,Macao
+446,region,Asia
+446,sub_region,Eastern Asia
+450,alpha_2,MG
+450,alpha_3,MDG
+450,name,Madagascar
+450,region,Africa
+450,sub_region,Sub-Saharan Africa
+454,alpha_2,MW
+454,alpha_3,MWI
+454,name,Malawi
+454,region,Africa
+454,sub_region,Sub-Saharan Africa
+458,alpha_2,MY
+458,alpha_3,MYS
+458,name,Malaysia
+458,region,Asia
+458,sub_region,South-eastern Asia
+462,alpha_2,MV
+462,alpha_3,MDV
+462,name,Maldives
+462,region,Asia
+462,sub_region,Southern Asia
+466,alpha_2,ML
+466,alpha_3,MLI
+466,name,Mali
+466,region,Africa
+466,sub_region,Sub-Saharan Africa
+470,alpha_2,MT
+470,alpha_3,MLT
+470,name,Malta
+470,region,Europe
+470,sub_region,Southern Europe
+584,alpha_2,MH
+584,alpha_3,MHL
+584,name,Marshall Islands
+584,region,Oceania
+584,sub_region,Micronesia
+474,alpha_2,MQ
+474,alpha_3,MTQ
+474,name,Martinique
+474,region,Americas
+474,sub_region,Latin America and the Caribbean
+478,alpha_2,MR
+478,alpha_3,MRT
+478,name,Mauritania
+478,region,Africa
+478,sub_region,Sub-Saharan Africa
+480,alpha_2,MU
+480,alpha_3,MUS
+480,name,Mauritius
+480,region,Africa
+480,sub_region,Sub-Saharan Africa
+175,alpha_2,YT
+175,alpha_3,MYT
+175,name,Mayotte
+175,region,Africa
+175,sub_region,Sub-Saharan Africa
+484,alpha_2,MX
+484,alpha_3,MEX
+484,name,Mexico
+484,region,Americas
+484,sub_region,Latin America and the Caribbean
+583,alpha_2,FM
+583,alpha_3,FSM
+583,name,Micronesia (Federated States of)
+583,region,Oceania
+583,sub_region,Micronesia
+498,alpha_2,MD
+498,alpha_3,MDA
+498,name,"Moldova, Republic of"
+498,region,Europe
+498,sub_region,Eastern Europe
+492,alpha_2,MC
+492,alpha_3,MCO
+492,name,Monaco
+492,region,Europe
+492,sub_region,Western Europe
+496,alpha_2,MN
+496,alpha_3,MNG
+496,name,Mongolia
+496,region,Asia
+496,sub_region,Eastern Asia
+499,alpha_2,ME
+499,alpha_3,MNE
+499,name,Montenegro
+499,region,Europe
+499,sub_region,Southern Europe
+500,alpha_2,MS
+500,alpha_3,MSR
+500,name,Montserrat
+500,region,Americas
+500,sub_region,Latin America and the Caribbean
+504,alpha_2,MA
+504,alpha_3,MAR
+504,name,Morocco
+504,region,Africa
+504,sub_region,Northern Africa
+508,alpha_2,MZ
+508,alpha_3,MOZ
+508,name,Mozambique
+508,region,Africa
+508,sub_region,Sub-Saharan Africa
+104,alpha_2,MM
+104,alpha_3,MMR
+104,name,Myanmar
+104,region,Asia
+104,sub_region,South-eastern Asia
+516,alpha_2,NA
+516,alpha_3,"NAM"
+516,name,Namibia
+516,region,Africa
+516,sub_region,Sub-Saharan Africa
+520,alpha_2,NR
+520,alpha_3,NRU
+520,name,Nauru
+520,region,Oceania
+520,sub_region,Micronesia
+524,alpha_2,NP
+524,alpha_3,NPL
+524,name,Nepal
+524,region,Asia
+524,sub_region,Southern Asia
+528,alpha_2,NL
+528,alpha_3,NLD
+528,name,Netherlands
+528,region,Europe
+528,sub_region,Western Europe
+540,alpha_2,NC
+540,alpha_3,NCL
+540,name,New Caledonia
+540,region,Oceania
+540,sub_region,Melanesia
+554,alpha_2,NZ
+554,alpha_3,NZL
+554,name,New Zealand
+554,region,Oceania
+554,sub_region,Australia and New Zealand
+558,alpha_2,NI
+558,alpha_3,NIC
+558,name,Nicaragua
+558,region,Americas
+558,sub_region,Latin America and the Caribbean
+562,alpha_2,NE
+562,alpha_3,NER
+562,name,Niger
+562,region,Africa
+562,sub_region,Sub-Saharan Africa
+566,alpha_2,NG
+566,alpha_3,NGA
+566,name,Nigeria
+566,region,Africa
+566,sub_region,Sub-Saharan Africa
+570,alpha_2,NU
+570,alpha_3,NIU
+570,name,Niue
+570,region,Oceania
+570,sub_region,Polynesia
+574,alpha_2,NF
+574,alpha_3,NFK
+574,name,Norfolk Island
+574,region,Oceania
+574,sub_region,Australia and New Zealand
+807,alpha_2,MK
+807,alpha_3,MKD
+807,name,North Macedonia
+807,region,Europe
+807,sub_region,Southern Europe
+580,alpha_2,MP
+580,alpha_3,MNP
+580,name,Northern Mariana Islands
+580,region,Oceania
+580,sub_region,Micronesia
+578,alpha_2,NO
+578,alpha_3,NOR
+578,name,Norway
+578,region,Europe
+578,sub_region,Northern Europe
+512,alpha_2,OM
+512,alpha_3,OMN
+512,name,Oman
+512,region,Asia
+512,sub_region,Western Asia
+586,alpha_2,PK
+586,alpha_3,PAK
+586,name,Pakistan
+586,region,Asia
+586,sub_region,Southern Asia
+585,alpha_2,PW
+585,alpha_3,PLW
+585,name,Palau
+585,region,Oceania
+585,sub_region,Micronesia
+275,alpha_2,PS
+275,alpha_3,PSE
+275,name,"Palestine, State of"
+275,region,Asia
+275,sub_region,Western Asia
+591,alpha_2,PA
+591,alpha_3,PAN
+591,name,Panama
+591,region,Americas
+591,sub_region,Latin America and the Caribbean
+598,alpha_2,PG
+598,alpha_3,PNG
+598,name,Papua New Guinea
+598,region,Oceania
+598,sub_region,Melanesia
+600,alpha_2,PY
+600,alpha_3,PRY
+600,name,Paraguay
+600,region,Americas
+600,sub_region,Latin America and the Caribbean
+604,alpha_2,PE
+604,alpha_3,PER
+604,name,Peru
+604,region,Americas
+604,sub_region,Latin America and the Caribbean
+608,alpha_2,PH
+608,alpha_3,PHL
+608,name,Philippines
+608,region,Asia
+608,sub_region,South-eastern Asia
+612,alpha_2,PN
+612,alpha_3,PCN
+612,name,Pitcairn
+612,region,Oceania
+612,sub_region,Polynesia
+616,alpha_2,PL
+616,alpha_3,POL
+616,name,Poland
+616,region,Europe
+616,sub_region,Eastern Europe
+620,alpha_2,PT
+620,alpha_3,PRT
+620,name,Portugal
+620,region,Europe
+620,sub_region,Southern Europe
+630,alpha_2,PR
+630,alpha_3,PRI
+630,name,Puerto Rico
+630,region,Americas
+630,sub_region,Latin America and the Caribbean
+634,alpha_2,QA
+634,alpha_3,QAT
+634,name,Qatar
+634,region,Asia
+634,sub_region,Western Asia
+638,alpha_2,RE
+638,alpha_3,REU
+638,name,Réunion
+638,region,Africa
+638,sub_region,Sub-Saharan Africa
+642,alpha_2,RO
+642,alpha_3,ROU
+642,name,Romania
+642,region,Europe
+642,sub_region,Eastern Europe
+643,alpha_2,RU
+643,alpha_3,RUS
+643,name,Russian Federation
+643,region,Europe
+643,sub_region,Eastern Europe
+646,alpha_2,RW
+646,alpha_3,RWA
+646,name,Rwanda
+646,region,Africa
+646,sub_region,Sub-Saharan Africa
+652,alpha_2,BL
+652,alpha_3,BLM
+652,name,Saint Barthélemy
+652,region,Americas
+652,sub_region,Latin America and the Caribbean
+654,alpha_2,SH
+654,alpha_3,SHN
+654,name,"Saint Helena, Ascension and Tristan da Cunha"
+654,region,Africa
+654,sub_region,Sub-Saharan Africa
+659,alpha_2,KN
+659,alpha_3,KNA
+659,name,Saint Kitts and Nevis
+659,region,Americas
+659,sub_region,Latin America and the Caribbean
+662,alpha_2,LC
+662,alpha_3,LCA
+662,name,Saint Lucia
+662,region,Americas
+662,sub_region,Latin America and the Caribbean
+663,alpha_2,MF
+663,alpha_3,MAF
+663,name,Saint Martin (French part)
+663,region,Americas
+663,sub_region,Latin America and the Caribbean
+666,alpha_2,PM
+666,alpha_3,SPM
+666,name,Saint Pierre and Miquelon
+666,region,Americas
+666,sub_region,Northern America
+670,alpha_2,VC
+670,alpha_3,VCT
+670,name,Saint Vincent and the Grenadines
+670,region,Americas
+670,sub_region,Latin America and the Caribbean
+882,alpha_2,WS
+882,alpha_3,WSM
+882,name,Samoa
+882,region,Oceania
+882,sub_region,Polynesia
+674,alpha_2,SM
+674,alpha_3,SMR
+674,name,San Marino
+674,region,Europe
+674,sub_region,Southern Europe
+678,alpha_2,ST
+678,alpha_3,STP
+678,name,Sao Tome and Principe
+678,region,Africa
+678,sub_region,Sub-Saharan Africa
+682,alpha_2,SA
+682,alpha_3,SAU
+682,name,Saudi Arabia
+682,region,Asia
+682,sub_region,Western Asia
+686,alpha_2,SN
+686,alpha_3,SEN
+686,name,Senegal
+686,region,Africa
+686,sub_region,Sub-Saharan Africa
+688,alpha_2,RS
+688,alpha_3,SRB
+688,name,Serbia
+688,region,Europe
+688,sub_region,Southern Europe
+690,alpha_2,SC
+690,alpha_3,SYC
+690,name,Seychelles
+690,region,Africa
+690,sub_region,Sub-Saharan Africa
+694,alpha_2,SL
+694,alpha_3,SLE
+694,name,Sierra Leone
+694,region,Africa
+694,sub_region,Sub-Saharan Africa
+702,alpha_2,SG
+702,alpha_3,SGP
+702,name,Singapore
+702,region,Asia
+702,sub_region,South-eastern Asia
+534,alpha_2,SX
+534,alpha_3,SXM
+534,name,Sint Maarten (Dutch part)
+534,region,Americas
+534,sub_region,Latin America and the Caribbean
+703,alpha_2,SK
+703,alpha_3,SVK
+703,name,Slovakia
+703,region,Europe
+703,sub_region,Eastern Europe
+705,alpha_2,SI
+705,alpha_3,SVN
+705,name,Slovenia
+705,region,Europe
+705,sub_region,Southern Europe
+90,alpha_2,SB
+90,alpha_3,SLB
+90,name,Solomon Islands
+90,region,Oceania
+90,sub_region,Melanesia
+706,alpha_2,SO
+706,alpha_3,SOM
+706,name,Somalia
+706,region,Africa
+706,sub_region,Sub-Saharan Africa
+710,alpha_2,ZA
+710,alpha_3,ZAF
+710,name,South Africa
+710,region,Africa
+710,sub_region,Sub-Saharan Africa
+239,alpha_2,GS
+239,alpha_3,SGS
+239,name,South Georgia and the South Sandwich Islands
+239,region,Americas
+239,sub_region,Latin America and the Caribbean
+728,alpha_2,SS
+728,alpha_3,SSD
+728,name,South Sudan
+728,region,Africa
+728,sub_region,Sub-Saharan Africa
+724,alpha_2,ES
+724,alpha_3,ESP
+724,name,Spain
+724,region,Europe
+724,sub_region,Southern Europe
+144,alpha_2,LK
+144,alpha_3,LKA
+144,name,Sri Lanka
+144,region,Asia
+144,sub_region,Southern Asia
+729,alpha_2,SD
+729,alpha_3,SDN
+729,name,Sudan
+729,region,Africa
+729,sub_region,Northern Africa
+740,alpha_2,SR
+740,alpha_3,SUR
+740,name,Suriname
+740,region,Americas
+740,sub_region,Latin America and the Caribbean
+744,alpha_2,SJ
+744,alpha_3,SJM
+744,name,Svalbard and Jan Mayen
+744,region,Europe
+744,sub_region,Northern Europe
+752,alpha_2,SE
+752,alpha_3,SWE
+752,name,Sweden
+752,region,Europe
+752,sub_region,Northern Europe
+756,alpha_2,CH
+756,alpha_3,CHE
+756,name,Switzerland
+756,region,Europe
+756,sub_region,Western Europe
+760,alpha_2,SY
+760,alpha_3,SYR
+760,name,Syrian Arab Republic
+760,region,Asia
+760,sub_region,Western Asia
+158,alpha_2,TW
+158,alpha_3,TWN
+158,name,"Taiwan, Province of China"
+158,region,Asia
+158,sub_region,Eastern Asia
+762,alpha_2,TJ
+762,alpha_3,TJK
+762,name,Tajikistan
+762,region,Asia
+762,sub_region,Central Asia
+834,alpha_2,TZ
+834,alpha_3,TZA
+834,name,"Tanzania, United Republic of"
+834,region,Africa
+834,sub_region,Sub-Saharan Africa
+764,alpha_2,TH
+764,alpha_3,THA
+764,name,Thailand
+764,region,Asia
+764,sub_region,South-eastern Asia
+626,alpha_2,TL
+626,alpha_3,TLS
+626,name,Timor-Leste
+626,region,Asia
+626,sub_region,South-eastern Asia
+768,alpha_2,TG
+768,alpha_3,TGO
+768,name,Togo
+768,region,Africa
+768,sub_region,Sub-Saharan Africa
+772,alpha_2,TK
+772,alpha_3,TKL
+772,name,Tokelau
+772,region,Oceania
+772,sub_region,Polynesia
+776,alpha_2,TO
+776,alpha_3,TON
+776,name,Tonga
+776,region,Oceania
+776,sub_region,Polynesia
+780,alpha_2,TT
+780,alpha_3,TTO
+780,name,Trinidad and Tobago
+780,region,Americas
+780,sub_region,Latin America and the Caribbean
+788,alpha_2,TN
+788,alpha_3,TUN
+788,name,Tunisia
+788,region,Africa
+788,sub_region,Northern Africa
+792,alpha_2,TR
+792,alpha_3,TUR
+792,name,Turkey
+792,region,Asia
+792,sub_region,Western Asia
+795,alpha_2,TM
+795,alpha_3,TKM
+795,name,Turkmenistan
+795,region,Asia
+795,sub_region,Central Asia
+796,alpha_2,TC
+796,alpha_3,TCA
+796,name,Turks and Caicos Islands
+796,region,Americas
+796,sub_region,Latin America and the Caribbean
+798,alpha_2,TV
+798,alpha_3,TUV
+798,name,Tuvalu
+798,region,Oceania
+798,sub_region,Polynesia
+800,alpha_2,UG
+800,alpha_3,UGA
+800,name,Uganda
+800,region,Africa
+800,sub_region,Sub-Saharan Africa
+804,alpha_2,UA
+804,alpha_3,UKR
+804,name,Ukraine
+804,region,Europe
+804,sub_region,Eastern Europe
+784,alpha_2,AE
+784,alpha_3,ARE
+784,name,United Arab Emirates
+784,region,Asia
+784,sub_region,Western Asia
+826,alpha_2,GB
+826,alpha_3,GBR
+826,name,United Kingdom of Great Britain and Northern Ireland
+826,region,Europe
+826,sub_region,Northern Europe
+840,alpha_2,US
+840,alpha_3,USA
+840,name,United States of America
+840,region,Americas
+840,sub_region,Northern America
+581,alpha_2,UM
+581,alpha_3,UMI
+581,name,United States Minor Outlying Islands
+581,region,Oceania
+581,sub_region,Micronesia
+858,alpha_2,UY
+858,alpha_3,URY
+858,name,Uruguay
+858,region,Americas
+858,sub_region,Latin America and the Caribbean
+860,alpha_2,UZ
+860,alpha_3,UZB
+860,name,Uzbekistan
+860,region,Asia
+860,sub_region,Central Asia
+548,alpha_2,VU
+548,alpha_3,VUT
+548,name,Vanuatu
+548,region,Oceania
+548,sub_region,Melanesia
+862,alpha_2,VE
+862,alpha_3,VEN
+862,name,Venezuela (Bolivarian Republic of)
+862,region,Americas
+862,sub_region,Latin America and the Caribbean
+704,alpha_2,VN
+704,alpha_3,VNM
+704,name,Viet Nam
+704,region,Asia
+704,sub_region,South-eastern Asia
+92,alpha_2,VG
+92,alpha_3,VGB
+92,name,Virgin Islands (British)
+92,region,Americas
+92,sub_region,Latin America and the Caribbean
+850,alpha_2,VI
+850,alpha_3,VIR
+850,name,Virgin Islands (U.S.)
+850,region,Americas
+850,sub_region,Latin America and the Caribbean
+876,alpha_2,WF
+876,alpha_3,WLF
+876,name,Wallis and Futuna
+876,region,Oceania
+876,sub_region,Polynesia
+732,alpha_2,EH
+732,alpha_3,ESH
+732,name,Western Sahara
+732,region,Africa
+732,sub_region,Northern Africa
+887,alpha_2,YE
+887,alpha_3,YEM
+887,name,Yemen
+887,region,Asia
+887,sub_region,Western Asia
+894,alpha_2,ZM
+894,alpha_3,ZMB
+894,name,Zambia
+894,region,Africa
+894,sub_region,Sub-Saharan Africa
+716,alpha_2,ZW
+716,alpha_3,ZWE
+716,name,Zimbabwe
+716,region,Africa
+716,sub_region,Sub-Saharan Africa
